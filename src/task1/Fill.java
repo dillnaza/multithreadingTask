@@ -1,12 +1,14 @@
+package task1;
+
 import java.util.Random;
 
-public class MyThread {
+public class Fill {
     public void run() {
         int n=10;
-        int[] array = new int[n];
+        int[] arr = new int[n];
         Random random = new Random();
         for(int i=0;i<n;i++){
-            array[i]=random.nextInt(100);
+            arr[i]=random.nextInt(100);
         }
     }
 }
