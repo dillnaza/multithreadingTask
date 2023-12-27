@@ -27,7 +27,7 @@
 
 1. Клонируйте репозиторий на свой компьютер.
 ```bash
-git clone https://github.com/yourusername/java-design-patterns.git
+git clone https://github.com/dillnaza/multithreadingTask.git
 ```
 2. Откройте проект в вашей IDE (например, IntelliJ IDEA).
 3. Запустите приложение и следуйте инструкциям для каждого задания.
